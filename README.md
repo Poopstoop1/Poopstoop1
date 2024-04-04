@@ -12,16 +12,16 @@ Desde pequeno mexendo no computador despertou em mim a curiosidade de programar.
 ## Habilidades Técnicas
 | Desenvolvimento Web | Linguagens de Programação | Frameworks e Bibliotecas | Banco de Dados | Ferramentas e Tecnologias |
 | :-----------------: | :-----------------------: | :----------------------: | :------------: | :-----------------------: |
-| <img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/assets/icon/HTML.svg"><img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/assets/icon/CSS.svg"> | <img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/assets/icon/JavaScript.svg"><img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/assets/icon/Java-Dark.svg"><img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/assets/icon/C%23.svg"> | <img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/assets/icon/dotnet.svg"> | <img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/assets/icon/MySQL-Dark.svg"> | <img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/assets/icon/Eclipse.svg"><img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/assets/icon/VSCode-Dark.svg"><img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/assets/icon/Git.svg"><img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/assets/icon/Github-Dark.svg"><img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/assets/icon/Discord.svg"> |
+| <img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/HTML.svg"><img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/CSS.svg"> | <img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/JavaScript.svg"><img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/Java-Dark.svg"><img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/C%23.svg"> | <img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/dotnet.svg"> | <img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/MySQL-Dark.svg"> | <img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/Eclipse.svg"><img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/VSCode-Dark.svg"><img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/Git.svg"><img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/Github-Dark.svg"><img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/Discord.svg"> |
 
 ## Conecte-se comigo
 
 Você pode me encontrar no 👇🏼  
-[![](https://github.com/Poopstoop1/Poopstoop1/blob/main/assets/images/instagram.png)](https://www.instagram.com/paulinhoressutti)
-[![](https://github.com/Poopstoop1/Poopstoop1/blob/main/assets/images/linkedin.png)](https://www.linkedin.com/in/paulo-daniel-990197240)
-[![](https://github.com/Poopstoop1/Poopstoop1/blob/main/assets/images/discord.png)](https://discord.gg/atkKBZnW)
-[![](https://github.com/Poopstoop1/Poopstoop1/blob/main/assets/images/facebook.png)](https://www.facebook.com/paulinhoressutti)
-[![](https://github.com/Poopstoop1/Poopstoop1/blob/main/assets/images/gmail.png)](https://mailto:daniel.026@hotmail.com)
+[![](https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/images/instagram.png)](https://www.instagram.com/paulinhoressutti)
+[![](https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/images/linkedin.png)](https://www.linkedin.com/in/paulo-daniel-990197240)
+[![](https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/images/discord.png)](https://discord.gg/atkKBZnW)
+[![](https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/images/facebook.png)](https://www.facebook.com/paulinhoressutti)
+[![](https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/images/gmail.png)](https://mailto:daniel.026@hotmail.com)
 
 ## GitHub Stats
 
