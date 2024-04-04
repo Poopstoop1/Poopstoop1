@@ -2,7 +2,7 @@
 
 👋🏻 Olá, eu sou Paulo Daniel!  
 👩🏼‍💻 Sou Desenvolvedor Back-end
-📍 De Recife-PE, Brasil  
+ 📍 De Recife-PE, Brasil  
 🎓 Cursando Análise e desenvolvimento de Sistemas (2º Período)
 
 ## Sobre Mim
