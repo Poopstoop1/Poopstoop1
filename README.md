@@ -11,11 +11,6 @@ Opa! Meu nome é Paulo, estudante de Análise e Desenvolvimento de Sistemas. Me 
 
 Meu objetivo é focado no Back-End.
 
-Linguagens: Java, C#.
-
-Banco de dados: SQL server, PostgreSQL.
-
- Inglês Básico
 
 ## Habilidades Técnicas
 | Desenvolvimento Web | Linguagens de Programação | Frameworks e Bibliotecas | Banco de Dados | Ferramentas e Tecnologias |
@@ -25,11 +20,11 @@ Banco de dados: SQL server, PostgreSQL.
 ## Conecte-se comigo
 
 Você pode me encontrar no 👇🏼  
-[![](https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/images/instagram.png)](https://www.instagram.com/paulinhoressutti)
+[![](https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/images/instagram.png)](https://www.instagram.com/paulodaniel0202)
 [![](https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/images/linkedin.png)](https://www.linkedin.com/in/paulo-daniel-990197240)
 [![](https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/images/discord.png)](https://discord.gg/atkKBZnW)
 [![](https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/images/facebook.png)](https://www.facebook.com/paulinhoressutti)
-[![](https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/images/gmail.png)](https://mailto:daniel.026@hotmail.com)
+[![](https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/images/gmail.png)]()
 
 ## GitHub Stats
 
