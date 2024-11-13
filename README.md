@@ -7,12 +7,23 @@
 
 ## Sobre Mim
 
-Desde pequeno mexendo no computador despertou em mim a curiosidade de programar. Em Agosto de 2023 tive a oportunidade de entrar em uma Faculdade e realizar um grande desejo que pra mim  é programar, hoje estou focando em Java, Mysql, Html e Css, posteriormente springboot PostgreSQL, arquitetura de sistema e hospedagem em Cloud, JSF, JSP, PrimeFaces, BootFaces, Thymeleaf, JPA, Spring Data JPA e Hibernate, com objetivo de ser Java full-Stack e posteriormente FullCycle. Sou apaixonado em descobrir coisas novas que me despertem o interesse, no meu tempo livre gosto de Viajar/passear, ler, assistir filme/serie, jogar games e andar de skate. Estou em busca do meu primeiro estágio para aprofundar meus conhecimentos.
+Opa! Meu nome é Paulo, estudante de Análise e Desenvolvimento de Sistemas. Me considero um profissional estudioso, dedicado e disposto a encarar qualquer desafio em busca de crescimento, priorizando sempre agregar a equipe com soluções ágeis e eficazes.
+
+Meu objetivo é focado no Back-End.
+
+Linguagens: Java, C#.
+
+Banco de dados: SQL server, PostgreSQL.
+
+ Inglês Básico
 
 ## Habilidades Técnicas
 | Desenvolvimento Web | Linguagens de Programação | Frameworks e Bibliotecas | Banco de Dados | Ferramentas e Tecnologias |
 | :-----------------: | :-----------------------: | :----------------------: | :------------: | :-----------------------: |
-| <img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/HTML.svg"><img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/CSS.svg"> | <img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/JavaScript.svg"><img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/Java-Dark.svg"><img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/C%23.svg"> | <img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/dotnet.svg"> | <img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/MySQL-Dark.svg"> | <img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/Eclipse.svg"><img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/VSCode-Dark.svg"><img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/Git.svg"><img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/Github-Dark.svg"><img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/Discord.svg"> |
+| <img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/HTML.svg"><img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/CSS.svg"> | <img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/JavaScript.svg"><img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/Java-Dark.svg"><img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/C%23.svg"> | <img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/dotnet.svg"> <img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/Spring-Dark.svg"> <img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/Hibernate-Dark.svg"> <img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/Maven-Dark.svg">| <img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/MySQL-Dark.svg"> 
+<img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/PostgreSQL.svg">| <img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/Eclipse-Dark.svg">
+<img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/Idea.svg">
+<img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/Docker.svg"><img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/VSCode-Dark.svg"><img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/Git.svg"><img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/Github-Dark.svg"><img height="40" src="https://github.com/Poopstoop1/Poopstoop1/blob/main/Assets/icons/Discord.svg"> |
 
 ## Conecte-se comigo
 
