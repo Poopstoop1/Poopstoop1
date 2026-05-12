@@ -1,14 +1,13 @@
 👋🏻 Olá, eu sou Paulo Daniel!  
 👩🏼‍💻 Sou Desenvolvedor Back-end
  📍 De Recife-PE, Brasil  
-🎓 Cursando Análise e desenvolvimento de Sistemas (5º Período)
+🎓 Graduado em Análise e desenvolvimento de Sistemas
 
 ## Sobre Mim
 
-Opa! Meu nome é Paulo, estudante de Análise e Desenvolvimento de Sistemas. Me considero um profissional estudioso, dedicado e disposto a encarar qualquer desafio em busca de crescimento, priorizando sempre agregar a equipe com soluções ágeis e eficazes.
+Opa! Meu nome é Paulo, gradudo em Análise e Desenvolvimento de Sistemas. Me considero um profissional estudioso, dedicado e disposto a encarar qualquer desafio em busca de crescimento, priorizando sempre agregar a equipe com soluções ágeis e eficazes.
 
 Meu objetivo é focado no Back-End.
-
 
 ## Habilidades Técnicas
 | Desenvolvimento Web | Linguagens de Programação | Frameworks e Bibliotecas | Banco de Dados | Ferramentas e Tecnologias |
